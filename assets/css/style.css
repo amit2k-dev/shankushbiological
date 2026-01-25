@@ -48,7 +48,7 @@ header {
 }
 .logo img {
   width: 100%;
-  max-width: 150px;
+  max-width: 80px;
 }
 .logo-box {
   background: var(--teal-gradient);
@@ -842,3 +842,4 @@ h2 span,
     padding: 0 15px;
   }
 }
+
